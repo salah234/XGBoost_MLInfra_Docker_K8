@@ -1,0 +1,10 @@
+ucimlrepo
+xgboost==2.0.3
+scikit-learn==1.4.2
+pandas
+joblib
+fastapi
+uvicorn
+pyarrow
+python-multipart
+
