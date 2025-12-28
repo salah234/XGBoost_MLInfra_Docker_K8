@@ -17,7 +17,7 @@ This repository provides a **complete ML infrastructure** for training, deployin
 It includes training scripts, feature engineering pipelines, inference services, and deployment configurations.
 
 ---
-
+```
 ## Repository Structure
 ├── training/ # Training scripts & model files <br>
 │ ├── train.py
@@ -37,6 +37,7 @@ It includes training scripts, feature engineering pipelines, inference services,
 ├── aws_ecs_deploy.py # AWS ECS deployment script
 ├── k8_ml.yaml # Kubernetes deployment config
 └── design.md # Project design notes
+```
 
 ## Setup Instructions
 
