@@ -19,7 +19,7 @@ It includes training scripts, feature engineering pipelines, inference services,
 ---
 
 ## Repository Structure
-├── training/ # Training scripts & model files
+├── training/ # Training scripts & model files <br>
 │ ├── train.py
 │ ├── xgb_model.joblib
 │ ├── xgb_model.json
