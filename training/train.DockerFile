@@ -16,8 +16,8 @@ FROM python:3.11
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
-COPY . .
-COPY ../feature-pipeline ./feature-pipeline
+COPY training ./training
+COPY feature-pipeline ./feature-pipeline
 WORKDIR /app/training
 CMD ["python3", "train.py"]
 

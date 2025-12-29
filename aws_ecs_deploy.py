@@ -10,3 +10,5 @@ AWS_REGION = os.getenv("AWS_REGION")
 
 
 ecs = boto3.client('ecs', region_name=AWS_REGION)
+
+
