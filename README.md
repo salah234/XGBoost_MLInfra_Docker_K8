@@ -1,4 +1,4 @@
-# XGBoost ML Infrastructure with Docker, Kubernetes & AWS ECS - Fargate
+# XGBoost ML Infrastructure with Docker & AWS ECS - Fargate
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)]()
 [![Docker](https://img.shields.io/badge/docker-latest-blue)]()
@@ -16,6 +16,8 @@ This repository provides a **complete ML infrastructure** for training, deployin
 
 It includes training scripts, feature engineering pipelines, inference services, and deployment configurations.
 
+## Next Steps:
+Extend to be able to handle Kubernetes clusters & pods.
 ---
 ```
 ## Repository Structure
@@ -46,3 +48,4 @@ It includes training scripts, feature engineering pipelines, inference services,
 ```bash
 git clone https://github.com/username/XGBoost_ML_Infra_Docker_K8.git
 cd XGBoost_ML_Infra_Docker_K8
+
