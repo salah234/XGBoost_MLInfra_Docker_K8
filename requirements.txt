@@ -8,3 +8,4 @@ uvicorn
 pyarrow
 python-multipart
 boto3
+dotenv
