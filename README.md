@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)]()
 [![Docker](https://img.shields.io/badge/docker-latest-blue)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-latest-blue)]()
+[![AWS](https://img.shields.io/badge/aws-latest-blue)]()
 
 ## Project Overview
 
