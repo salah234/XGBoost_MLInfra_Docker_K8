@@ -10,9 +10,9 @@ This repository provides a **complete ML infrastructure** for training, deployin
 
 - Python for ML pipelines and inference  
 - Docker for containerization  
-- Kubernetes for orchestration  
 - AWS ECS and Fargate for cloud deployment  
-- S3 for model and data storage  
+- S3 for model and data storage
+- CloudWatch for Task initialization and Logging
 
 It includes training scripts, feature engineering pipelines, inference services, and deployment configurations.
 
